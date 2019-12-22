@@ -1,0 +1,3 @@
+[submodule "ndesk_options_dll"]
+	path = ndesk_options_dll
+	url = git@github.com:ray42/ndesk_options_dll.git
